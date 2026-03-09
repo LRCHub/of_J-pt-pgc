@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アスタラブビスタ",
+  "base_artist": "アルストロメリア",
+  "createdAt": "2026-03-09T05:15:03.256142Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アスタラブビスタ",
+      "artist": "アルストロメリア",
+      "has_synced": false,
+      "path": "select/pl_01_アスタラブビスタ_アルストロメリア.txt"
+    }
+  ]
+}
